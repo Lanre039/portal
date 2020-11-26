@@ -10,10 +10,9 @@
 // define("DB_PASS", "localhost");
 // define("DB_NAME", "portal");
 
-define("DB_SERVER", "sql10.freemysqlhosting.net");
-define("DB_USER", "sql10378579");
-define("DB_PASSWORD", "9SYqgvi2pe");
-define("DB_NAME", "sql10378579");
-
+define("DB_SERVER", "freedb.tech");
+define("DB_USER", "freedbtech_webuser");
+define("DB_PASSWORD", "webuser");
+define("DB_NAME", "freedbtech_portal");
 
 ?>
